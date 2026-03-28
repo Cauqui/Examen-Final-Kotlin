@@ -119,5 +119,27 @@ En el código no se encontró errores pero si una mala práctica al hacerlo, pue
 Se corrigió de una forma de estructura correcta.
 
 
+## Ejercicio 7
+Código corregido
 
+
+fun main() {
+
+    val nota = 18
+    
+    when {
+    
+        nota >= 18 -> println("Excelente")
+        
+        nota >= 11 -> println("Aprobado")
+        
+        else -> println("Desaprobado")
+        
+    }
+    
+}
+
+
+<img width="226" height="84" alt="image" src="https://github.com/user-attachments/assets/520f0cd0-1e07-4712-a6a0-9f8238514818" />
+Se corregió la estructura del when
 
