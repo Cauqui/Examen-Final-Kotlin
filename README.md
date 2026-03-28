@@ -161,8 +161,30 @@ fun saludo(): String {
 
 
 
-<img width="1241" height="163" alt="image" src="https://github.com/user-attachments/assets/4fb281e3-ad83-4e52-8068-909de5b3a9b1" />
+fun saludo(): Int { 
+
+    return 10
+    
+}
+
+
+fun main() {
+
+    println(saludo())
+    
+}
+
+<img width="235" height="86" alt="image" src="https://github.com/user-attachments/assets/716a59c6-bc40-4db7-881d-1f7b721b0e39" />
+
 
 Error al confundir el int 
+
+
+
+## Ejercicio 9
+Código corregido
+
+
+
 
 
