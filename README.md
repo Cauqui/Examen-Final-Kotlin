@@ -91,6 +91,6 @@ fun main() {
 
 
 <img width="259" height="169" alt="image" src="https://github.com/user-attachments/assets/10138385-1c0b-429c-9b63-ec4112e7336e" />
-
+Se cumple la enúmeración creciente 
 
 
