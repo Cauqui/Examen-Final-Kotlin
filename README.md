@@ -143,5 +143,26 @@ fun main() {
 
 
 <img width="226" height="84" alt="image" src="https://github.com/user-attachments/assets/520f0cd0-1e07-4712-a6a0-9f8238514818" />
+
+
 Se corregió la estructura del when
+
+
+## Ejercicio 8
+Código corregido
+
+
+fun saludo(): String {
+
+    return "10"
+
+    
+}
+
+
+
+<img width="1241" height="163" alt="image" src="https://github.com/user-attachments/assets/4fb281e3-ad83-4e52-8068-909de5b3a9b1" />
+
+Error al confundir el int 
+
 
