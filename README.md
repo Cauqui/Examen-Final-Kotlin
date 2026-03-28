@@ -209,8 +209,25 @@ Se corrigió el error mostrar(nombre: String) espera recibir un dato de tipo tex
 
 
 
+
+
+
 ## Ejercicio 10
 Código corregido
+
+fun main() {
+
+    var x = 10
+    
+    x = 20 
+    
+    println(x) 
+    
+}
+
+<img width="160" height="60" alt="image" src="https://github.com/user-attachments/assets/22545be7-b090-43ff-9390-6de860b9eedd" />
+Se corrigió
+
 
 
 
