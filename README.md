@@ -16,5 +16,28 @@ println(edad)
 <img width="277" height="74" alt="image" src="https://github.com/user-attachments/assets/a2abe4d3-ad31-4d70-9e3f-f8c8170f48cb" />
 
 
-
 Se corrigió el error de declarar la varibable edad con val, se prodecidió a declarar con  var.
+
+
+## Ejercicio 2
+Código corregido
+
+fun main() {
+
+    val x = 10
+    
+    // Usamos '==' para comparar si x es igual a 10
+    
+    if (x == 10) {
+    
+        println("Correcto")
+        
+    }
+}
+
+<img width="197" height="56" alt="image" src="https://github.com/user-attachments/assets/5d85464d-7c38-4f75-84d7-f567b3f25155" />
+
+Se le agregó == para darle igualdad y proceder con el resultado 
+
+
+
