@@ -174,7 +174,8 @@ fun main() {
     
 }
 
-<img width="235" height="86" alt="image" src="https://github.com/user-attachments/assets/716a59c6-bc40-4db7-881d-1f7b721b0e39" />
+
+<img width="235" height="86" alt="image" src="https://github.com/user-attachments/assets/f0b57e1f-ea23-43a3-a099-abd0d6a3348f" />
 
 
 Error al confundir el int 
