@@ -119,6 +119,8 @@ En el código no se encontró errores pero si una mala práctica al hacerlo, pue
 Se corrigió de una forma de estructura correcta.
 
 
+
+
 ## Ejercicio 7
 Código corregido
 
