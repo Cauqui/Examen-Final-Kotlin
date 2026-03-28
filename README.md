@@ -55,23 +55,4 @@ fun main() {
 Falto asignar valor al nombre, se agregó "Christian" para que se imprima
 
 
-## Ejercicio 4
-Código corregido
 
-## Ejercicio 5
-Código corregido
-
-## Ejercicio 6
-Código corregido
-
-## Ejercicio 7
-Código corregido
-
-## Ejercicio 8
-Código corregido
-
-## Ejercicio 9
-Código corregido
-
-## Ejercicio 10
-Código corregido
