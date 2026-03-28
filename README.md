@@ -26,13 +26,12 @@ fun main() {
 
     val x = 10
     
-    // Usamos '==' para comparar si x es igual a 10
-    
     if (x == 10) {
     
         println("Correcto")
         
     }
+    
 }
 
 <img width="197" height="56" alt="image" src="https://github.com/user-attachments/assets/5d85464d-7c38-4f75-84d7-f567b3f25155" />
