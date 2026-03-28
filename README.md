@@ -77,5 +77,20 @@ fun main() {
 Se declaró de forma correcta el when para que se cumpla la función
 
 
+## Ejercicio 5
+Código corregido
+
+fun main() {
+
+    for (i in 1..5) {
+    
+        println(i)
+        
+    }
+}
+
+
+<img width="259" height="169" alt="image" src="https://github.com/user-attachments/assets/10138385-1c0b-429c-9b63-ec4112e7336e" />
+
 
 
