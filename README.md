@@ -96,3 +96,28 @@ fun main() {
 Se cumple la enúmeración creciente 
 
 
+## Ejercicio 6
+Código corregido
+
+fun main() {
+
+    val numero = 5
+    
+    if (numero > 10) {
+    
+        println("Mayor")
+        
+    } else {
+    
+        println("Menor")
+    }
+}
+
+<img width="240" height="59" alt="image" src="https://github.com/user-attachments/assets/42ddb0f7-ca1f-43c1-8086-42285efb1cce" />
+
+En el código no se encontró errores pero si una mala práctica al hacerlo, puede compilar porque kotlin las oimite.
+Se corrigió de una forma de estructura correcta.
+
+
+
+
