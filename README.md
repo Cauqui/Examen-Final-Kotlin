@@ -187,5 +187,31 @@ Código corregido
 
 
 
+fun mostrar(nombre: String) {
+
+    println(nombre)
+    
+}
+
+
+fun main() {
+
+   
+    mostrar("Auqui") 
+    
+}
+
+
+
+<img width="162" height="55" alt="image" src="https://github.com/user-attachments/assets/2f521811-71bb-4909-80e8-9c8e9e5b191d" />
+
+Se corrigió el error mostrar(nombre: String) espera recibir un dato de tipo texto (String) para poder trabajar.
+
+
+
+## Ejercicio 10
+Código corregido
+
+
 
 
