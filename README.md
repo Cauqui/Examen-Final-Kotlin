@@ -55,4 +55,22 @@ fun main() {
 Falto asignar valor al nombre, se agregó "Christian" para que se imprima
 
 
+## Ejercicio 4
+Código corregido
+
+fun main() {
+    val nota = 15
+    when {
+        nota >= 11 -> println("Aprobado")
+        else -> println("Desaprobado")
+    }
+}
+
+
+<img width="332" height="93" alt="image" src="https://github.com/user-attachments/assets/ac48555b-dddc-4f7f-90c9-3d69f50d43bd" />
+
+Se declaró de forma correcta el when para que se cumpla la función
+
+
+
 
