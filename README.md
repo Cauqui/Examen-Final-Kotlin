@@ -59,10 +59,15 @@ Falto asignar valor al nombre, se agregó "Christian" para que se imprima
 Código corregido
 
 fun main() {
+
     val nota = 15
+    
     when {
+    
         nota >= 11 -> println("Aprobado")
+        
         else -> println("Desaprobado")
+        
     }
 }
 
