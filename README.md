@@ -39,4 +39,39 @@ fun main() {
 Se le agregó == para darle igualdad y proceder con el resultado 
 
 
+## Ejercicio 3
+Código corregido
 
+
+fun main() {
+
+    val nombre: String = "Christian"
+    
+    println(nombre)
+}
+
+<img width="225" height="67" alt="image" src="https://github.com/user-attachments/assets/02b5bbcc-2593-4f9f-be55-b8bdd7b3bb40" />
+
+Falto asignar valor al nombre, se agregó "Christian" para que se imprima
+
+
+## Ejercicio 4
+Código corregido
+
+## Ejercicio 5
+Código corregido
+
+## Ejercicio 6
+Código corregido
+
+## Ejercicio 7
+Código corregido
+
+## Ejercicio 8
+Código corregido
+
+## Ejercicio 9
+Código corregido
+
+## Ejercicio 10
+Código corregido
